@@ -1,2 +1,2 @@
 # Restaurant-Website
-This is a website of my restaurant using HTML, CSS, JS.
+This is a restaurant website using HTML, CSS, JS.
